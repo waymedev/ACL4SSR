@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-KEYWORD,weixin
 DOMAIN-SUFFIX,uicdqg.xyz
 DOMAIN-SUFFIX,ankichinas.cn
+DOMAIN-SUFFIX,uicdqg.xyz
