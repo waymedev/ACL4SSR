@@ -1,6 +1,6 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
-DOMAIN-KEYWORD,reddit
+DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,bard.google.com
 
 IP-CIDR,66.206.5.0/24,no-resolve
