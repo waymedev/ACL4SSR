@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,perplexity
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,annas-archive.org
 
 IP-CIDR,66.206.5.0/24,no-resolve
 IP-CIDR,66.165.255.0/24,no-resolve
