@@ -12,3 +12,4 @@ DOMAIN-KEYWORD,weixin
 DOMAIN-SUFFIX,uicdqg.xyz
 DOMAIN-SUFFIX,ankichinas.cn
 DOMAIN-SUFFIX,uicdqg.xyz
+DOMAIN-SUFFIX,edu-helper.top
