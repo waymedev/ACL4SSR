@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,uicdqg.xyz
 DOMAIN-SUFFIX,ankichinas.cn
 DOMAIN-SUFFIX,uicdqg.xyz
 DOMAIN-SUFFIX,edu-helper.top
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,assets3.xboxlive.com
