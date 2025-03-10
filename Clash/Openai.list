@@ -3,6 +3,8 @@ DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,perplexity
+DOMAIN-KEYWORD,notebooklm
+DOMAIN-KEYWORD,gemini
 DOMAIN-SUFFIX,bard.google.com
 
 DOMAIN-SUFFIX,annas-archive.org
