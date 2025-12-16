@@ -14,3 +14,4 @@ DOMAIN-KEYWORD,reddit
 DOMAIN-SUFFIX,997990.xyz
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,web3.okx.com
