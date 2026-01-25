@@ -93,7 +93,6 @@ payload:
   - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
   - DOMAIN-SUFFIX,bingstatic.com
   - DOMAIN-SUFFIX,yahoo.co.jp
-  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,r.msftstatic.com
   - DOMAIN-SUFFIX,rafd.bing.com
