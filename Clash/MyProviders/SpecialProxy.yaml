@@ -1,0 +1,25 @@
+payload:
+  # Developer Tools (GitHub, NPM, V2EX, DBs)
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,githubusercontent
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-KEYWORD,v2ex
+  - DOMAIN-KEYWORD,crates
+  - DOMAIN-KEYWORD,planetscale
+  - DOMAIN-SUFFIX,web3.okx.com
+
+  # Productivity & Cloud Storage (Dropbox, Todoist, Notes)
+  - DOMAIN-KEYWORD,dropbox
+  - DOMAIN-KEYWORD,remnote
+  - DOMAIN-KEYWORD,anki
+  - DOMAIN-KEYWORD,todoist
+  - DOMAIN-KEYWORD,stayinsession
+
+  # Social Media & Content (LinkedIn, Reddit, Podcasts)
+  - DOMAIN-KEYWORD,linkedin
+  - DOMAIN-KEYWORD,reddit
+  - DOMAIN-SUFFIX,anchor.fm
+
+  # Infrastructure & Others
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,997990.xyz

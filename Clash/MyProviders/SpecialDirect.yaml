@@ -1,0 +1,23 @@
+payload:
+  # Xiaomi / Mi Services
+  - DOMAIN-SUFFIX,mioffice.cn
+  - DOMAIN-KEYWORD,youpin
+  - DOMAIN-KEYWORD,xiaomi
+  - DOMAIN-KEYWORD,mijia
+  - DOMAIN-SUFFIX,mi.com
+  - DOMAIN-KEYWORD,falcon
+  - DOMAIN-KEYWORD,miui
+
+  # Social / Cloud / General China
+  - DOMAIN-KEYWORD,115
+  - DOMAIN-KEYWORD,srv
+  - DOMAIN-KEYWORD,weixin
+  - DOMAIN-SUFFIX,ankichinas.cn
+  - DOMAIN-SUFFIX,uicdqg.xyz
+  - DOMAIN-SUFFIX,edu-helper.top
+
+  # Microsoft / Xbox
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN,assets1.xboxlive.com
+  - DOMAIN,assets2.xboxlive.com
+  - DOMAIN,assets3.xboxlive.com
