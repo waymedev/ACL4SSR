@@ -21,3 +21,5 @@ payload:
   - DOMAIN,assets1.xboxlive.com
   - DOMAIN,assets2.xboxlive.com
   - DOMAIN,assets3.xboxlive.com
+
+  - DOMAIN-SUFFIX,qq.pw
